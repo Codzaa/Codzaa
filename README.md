@@ -1,1 +1,1 @@
-<h2 align="center">👋 Hello! I'm Codzaa...pronounced 'KO-DZA'</h2>
+<h2 align="center">👋 Hello! I'm Codzaa</h2>
