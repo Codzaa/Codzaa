@@ -23,13 +23,15 @@ Hi there, I'm <a href="https://colinmudzami.netlify.app" target="_blank" rel="no
 ## 🔭 I'm currently . . .
 
 - 💼 Currently looking for a job, please  [email](mailto:colintaurai@outlook.com) :) me if you have an offer.
-- Currently working on Cross Platform Chat App.
+- Working on Cross Platform Chat App.
 - An Intern at <a href="https://www.linkedin.com/company/zhejiang-e-max-import-&-export-co-ltd/about/" target="_blank" rel="noreferrer">E-Max Technology</a>
+- Building a space ship to go to Neptune
+- My next Blog post
 
 
 ## 📝 Latest Blog Posts
 
--   Coming Soon
+- [Using Multiple Nodejs Versions](https://colinmudzami.netlify.app/posts/2021/1-nvm-blog-1/)
 
 ### 🤝 Lets Connect:
 
