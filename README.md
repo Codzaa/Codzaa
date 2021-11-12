@@ -24,7 +24,7 @@ Hi there, I'm <a href="https://colinmudzami.netlify.app" target="_blank" rel="no
 
 - 💼 Currently looking for a job, please  [email](mailto:colintaurai@outlook.com) :) me if you have an offer.
 - Currently working on Cross Platform Chat App.
-- An Intern at Hangzhou Bullsome Technology.
+- An Intern at <a href="https://www.linkedin.com/company/zhejiang-e-max-import-&-export-co-ltd/about/" target="_blank" rel="noreferrer">E-Max Technology</a>
 
 
 ## 📝 Latest Blog Posts
