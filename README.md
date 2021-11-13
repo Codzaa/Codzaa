@@ -45,4 +45,4 @@ Hi there, I'm <a href="https://colinmudzami.netlify.app" target="_blank" rel="no
 
 ## 📈 GitHub Stats
 
-[![Codzaa’s github stats](https://github-readme-stats.vercel.app/api?username=codzaa)](https://github.com/Codzaa)
+[![Codzaa’s github stats](https://github-readme-stats.vercel.app/api?username=codzaa&theme=nord&show_icons=true)](https://github.com/Codzaa)
