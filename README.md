@@ -22,10 +22,9 @@ Hi there, I'm <a href="https://colinmudzami.netlify.app" target="_blank" rel="no
 
 ## 🔭 I'm currently . . .
 
-- 💼 Currently looking for a job, please  [email](mailto:colintaurai@outlook.com) :) me if you have an offer.
-- Working on Cross Platform Chat App.
+- In Limbo
 - Building a space ship to go to Neptune
-- My next Blog post
+
 
 
 ## 📝 Latest Blog Posts
