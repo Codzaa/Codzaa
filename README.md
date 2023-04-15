@@ -4,7 +4,7 @@ Hi there, I'm <a href="https://colinmudzami.netlify.app" target="_blank" rel="no
 </h3>
 
 <h2 align="center">
-...Just a Software Developer <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="25px">
+...Just a making stuff <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="25px">
 
 
 ![](https://img.shields.io/badge/Code-C%23-blue?style=flat&logo=dotnet&color=512BD4)
